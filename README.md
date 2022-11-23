@@ -1,5 +1,6 @@
 # checker-bot-vk callback mysql
 vk.com/kalsc12345 help, support.
+- PHP7.3
 
 
  # Файлы
